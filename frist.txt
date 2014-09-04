@@ -1,7 +1,4 @@
 Git is  good
 create a new branch is quick
-<<<<<<< HEAD
-create anthor branch 
-=======
-git create brach is quick and saimple 
->>>>>>> dev
+git create branch is quick and simple 
+
