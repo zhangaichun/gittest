@@ -1,4 +1,3 @@
 Git is  good
 create a new branch is quick
 git create branch is quick and simple 
-
