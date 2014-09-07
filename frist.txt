@@ -1,4 +1,8 @@
 Git is  good
 create a new branch is quick
+<<<<<<< HEAD
 create anther branch 
 please quick
+=======
+git create branch is quick and simple 
+>>>>>>> 73f0c08264c7085c53a0c9dae53647d7e3d930a3
